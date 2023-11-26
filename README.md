@@ -1,4 +1,4 @@
-# event-based-datasets
+# Event-based Vision Datasets
 **This page contains our realeased event-based datasets. Please star this repository if you use our datasets.**
 
 ### 1. $\text{THU}^\text{HSEVI}$ Dataset
