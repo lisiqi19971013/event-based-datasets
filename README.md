@@ -1,5 +1,5 @@
 # event-based-datasets
-This page contains our realeased event-based datasets. Please star this repo if our dataset is used.
+**This page contains our realeased event-based datasets. Please star this repository if you use our datasets.**
 
 ### 1. $\text{THU}^\text{HSEVI}$ Dataset
 - Our **$\text{THU}^\text{HSEVI}$** dataset could be from https://drive.google.com/file/d/1im7Idfx7VP8c1krIdyS7zeiKTmgsU6qR/view?usp=sharing or from https://pan.baidu.com/s/13GVxDUc_81_DedRnIHIFSA (extract code: 69g5). 
